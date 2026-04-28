@@ -35,6 +35,8 @@ If you want to purchase full kits there are 3 available (Kits are slowly updatin
 
 [Zen3d](https://shop.zen3d.eu/ldo-micronplus-r1-kit-black)
 
+[MyRigs3D](https://myrigs3d.com/products/ldo-micron-3d-printer-kit-micron-plus-180)
+
 ## Formbot 3d Kit 
 <a href="https://www.formbot3d.com/products/voron-micron-r1-180mm-high-quality-corexy-3d-printer-kit-latest-version?DIST=Rk9OHl4%3D" rel="nofollow">Formbot Micron+ (180x180) Kit (Affiliate Link)</a>
 
