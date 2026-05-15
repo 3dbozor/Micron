@@ -40,8 +40,8 @@ jobs:
           TO_ZIP=()
           MISSING=0
           for entry in "${FILES[@]}"; do
-            if [[ "$entry" == */** ]]; then
-              dir="${entry%/**}"
+            if [[ "$entry" == *"/**" ]]; then
+              dir="${entry%"/**"}"
               if [ ! -d "$dir" ]; then
                 echo "::error::Directory not found: $dir"
                 MISSING=1
@@ -169,8 +169,8 @@ jobs:
           TO_ZIP=()
           MISSING=0
           for entry in "${FILES[@]}"; do
-            if [[ "$entry" == */** ]]; then
-              dir="${entry%/**}"
+            if [[ "$entry" == *"/**" ]]; then
+              dir="${entry%"/**"}"
               if [ ! -d "$dir" ]; then
                 echo "::error::Directory not found: $dir"
                 MISSING=1
@@ -295,8 +295,8 @@ jobs:
           TO_ZIP=()
           MISSING=0
           for entry in "${FILES[@]}"; do
-            if [[ "$entry" == */** ]]; then
-              dir="${entry%/**}"
+            if [[ "$entry" == *"/**" ]]; then
+              dir="${entry%"/**"}"
               if [ ! -d "$dir" ]; then
                 echo "::error::Directory not found: $dir"
                 MISSING=1
