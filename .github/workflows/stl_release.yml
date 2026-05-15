@@ -10,6 +10,7 @@ on:
       - main
     paths:
       - 'STLs/**'
+      - '.github/workflows/stl_release.yml'
   workflow_dispatch:  # also allow manual runs from the Actions tab
 
 permissions:
