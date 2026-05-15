@@ -82,6 +82,7 @@ jobs:
             'STLs/Electronics/1515_Din_rail_mount_x4.stl'
             'STLs/Gantry/AB_Drives/double_shear_mounts/[a]_double_shear_a_drive_x1.stl'
             'STLs/Gantry/AB_Drives/double_shear_mounts/[a]_double_shear_b_drive_x1.stl'
+            'STLs/Gantry/AB_Drives/double_shear_mounts/ab_drive_twist_lock_bearing_retainer_x2.stl'
             'STLs/Gantry/AB_Drives/[a]_y_endstop_sensorless_plug_x1.stl'
             'STLs/Gantry/AB_Drives/a_drive_lower_pinned_x1.stl'
             'STLs/Gantry/AB_Drives/a_drive_upper_pinned_x1.stl'
